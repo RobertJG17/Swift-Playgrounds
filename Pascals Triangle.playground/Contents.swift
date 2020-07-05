@@ -37,6 +37,7 @@ import UIKit
 /**
  This code passed!
  `Problem: Pascal's Triangle`
+ `Accessed Prior list in order to retrieve node value`
  */
 
 func generate(_ numRows: Int) -> [[Int]] {
